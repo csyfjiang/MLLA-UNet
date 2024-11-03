@@ -21,6 +21,10 @@ Ref: [MLLA Official Implementation]
 - [BTCV](https://www.synapse.org/Synapse:syn3193805/wiki/89480)
 - [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/)
 
+### Preprocessing:
+
+Ref: [nnUNet](https://github.com/MIC-DKFZ/nnUNet)
+
 ## 3. Environment
 
 - Please prepare an environment with python=3.9 and then use the command `pip install -r requirements.txt` for the dependencies.
