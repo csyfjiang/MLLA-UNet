@@ -1,6 +1,6 @@
 # MLLA-UNet
 
-The codes for the work "MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation"([Arxiv](https://arxiv.org/abs/2410.23738)). 
+The codes for the work "MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation". 
 
 ## 1. Pretrained Models: You can choose a pretrained model based on your preference.
 
@@ -50,27 +50,4 @@ sh test.sh
 * [SwinUnet](https://github.com/HuCaoFighting/Swin-Unet)
 * [MLLA](https://github.com/LeapLabTHU/MLLA)
 
-## Citation
-
-If you find this repository useful in your research, please consider citing our paper and star the repo:
-
-```bibtex
-@article{jiang2024mlla,
-  title={MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation},
-  author={Jiang, Yufeng and Li, Zongxi and Chen, Xiangyan and Xie, Haoran and Cai, Jing},
-  journal={arXiv preprint arXiv:2410.23738},
-  year={2024}
-}
-```
-We appreciate your citation if you use our code or find our work helpful for your research. Thank you!
-
-## Contact
-
-If you have any questions or suggestions about this repository, please feel free to:
-
-- Send an email to [905152222jyf@gmail.com](mailto:905152222jyf@gmail.com)
-- Open an issue in this repository
-- Submit a pull request
-
-We welcome collaboration and communication with the community!
 
