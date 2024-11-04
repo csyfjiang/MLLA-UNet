@@ -55,10 +55,11 @@ sh test.sh
 If you find this repository useful in your research, please consider citing our paper and star the repo:
 
 ```bibtex
-@inproceedings{Yufeng2024mllaunet,
-  title  = {MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation},
-  author = {Jiang Yufeng and Zongxi Li and Xiangyan Chen and Haoran Xie and Cai Jing},
-  year   = {2024}
+@article{jiang2024mlla,
+  title={MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation},
+  author={Jiang, Yufeng and Li, Zongxi and Chen, Xiangyan and Xie, Haoran and Cai, Jing},
+  journal={arXiv preprint arXiv:2410.23738},
+  year={2024}
 }
 ```
 We appreciate your citation if you use our code or find our work helpful for your research. Thank you!
