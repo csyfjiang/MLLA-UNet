@@ -60,7 +60,7 @@ If you find this repository useful in your research, please consider citing our 
   author = {Jiang Yufeng and Zongxi Li and Xiangyan Chen and Haoran Xie and Cai Jing},
   year   = {2024}
 }
-
+```
 We appreciate your citation if you use our code or find our work helpful for your research. Thank you!
 
 ## Contact
