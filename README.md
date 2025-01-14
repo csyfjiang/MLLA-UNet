@@ -24,6 +24,9 @@ Ref: [MLLA Official Implementation]
 ### Preprocessing:
 
 Ref: [nnUNet](https://github.com/MIC-DKFZ/nnUNet)
+Detailed procedure: [link](https://github.com/csyfjiang/MLLA-UNet/blob/main/datasets/README.md)
+
+Please follow the above procedure from the scratch, you are not recommended use the preprocessed data from the other work directly, otherwise it would get the worse results.
 
 ## 3. Environment
 
